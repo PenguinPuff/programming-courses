@@ -1,9 +1,10 @@
 adding notes of all the following programming courses taken at university: (will keep getting updated)
-- Introduction to Informatics (EIDI)
-- Introduction to Programming 
+- Introduction into Computer Science (EIDI-BWL)
+- Introduction to Programming (ITP)
+- Einführung in die Informatik (EIDI)
 - Praktikum Graundlagen in der Programmierung (PGdP)
-- Functional Programming and Verification
-- Concepts of C++ Programming 
+- Functional Programming and Verification 
+- Einführung in die Softwaretechnik (Introduction to Software Engineering) (EIST)
 - Advanced Concepts of Programming
-- Python for Engineering Data Analysis
+- Concepts of C++ Programming 
 
