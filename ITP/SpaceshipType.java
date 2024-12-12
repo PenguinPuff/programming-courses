@@ -1,0 +1,6 @@
+package de.tum.cit.ase;
+
+public enum SpaceshipType {
+
+    ZWING, CENTURYFALCON, STARREBUILDER,  LIVESTAR, PIEFIGHTER, SLAVE2, RAZERCREST, SNOWSPEEDER
+}
