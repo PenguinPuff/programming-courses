@@ -1,0 +1,2 @@
+- H03E01 - Jack O'Lantern
+- H03E02 - Halloween Caesar Cipher - The Secret Candy Stash
